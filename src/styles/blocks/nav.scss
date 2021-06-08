@@ -20,6 +20,8 @@
     color: $text-color;
     text-decoration: none;
     text-transform: uppercase;
+
+    transition: color 400ms;
   }
 
   &__link:hover {
